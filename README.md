@@ -304,7 +304,7 @@ Future improvements for this project include:
 
 # 👨‍💻 Author
 
-**Pranjal Upadhyay**
+**Raj Kumar**
 
 **B.Tech - Artificial Intelligence & Data Science**
 
